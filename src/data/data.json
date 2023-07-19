@@ -1,0 +1,11 @@
+{
+    "users" : [
+        {"name" : "Javoxir" , "lastname" : "Nuritdinov" , "age" : 16 , "id" : 1 , "location" : "Uzb"},
+        {"name" : "Diyor" , "lastname" : "Eshmatov" , "age" : 17 , "id" : 2 , "location" : "Xitoy"},
+        {"name" : "Sardor" , "lastname" : "Mirzaterakov" , "age" : 10 , "id" : 3 , "location" : "Korea"},
+        {"name" : "Farrux" , "lastname" : "G'aniboyev" , "age" : 18 , "id" : 4 , "location" : "Uzb"},
+        {"name" : "JaXongir" , "lastname" : "Boltayev" , "age" : 9 , "id" : 5 , "location" : "Xitoy"},
+        {"name" : "Shaxnoza" , "lastname" : "Xolajonova" , "age" : 50 , "id" : 6 , "location" : "Korea"},
+        {"name" : "Odina" , "lastname" : "Koreanov" , "age" : 40 , "id" : 7 , "location" : "Uzb"}
+    ]
+}
